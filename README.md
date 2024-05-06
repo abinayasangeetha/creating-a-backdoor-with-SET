@@ -67,8 +67,7 @@ In windows IE, on giving the url http://192.168.1.2, the fake Google page is dis
 
 
 SET logs the information regarding the Google credentials:
-
-![image](https://github.com/abinayasangeetha/creating-a-backdoor-with-SET/assets/119393675/7ae0feae-3ea9-4e47-9641-e2b4ccaad53c)
+![image](https://github.com/abinayasangeetha/creating-a-backdoor-with-SET/assets/119393675/4b806801-db67-4ec8-8c87-bb154520dff4)
 
 
 ## RESULT:
